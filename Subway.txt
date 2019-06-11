@@ -1,0 +1,18 @@
+Subway algorithm
+1.) From classroom, go to nearby door
+2.) Go through door
+3.) Turn left and walk straight
+4.) Take your first right and go to elevator
+5.) click on the down arrow elevator button
+6.) When elevator door opens, go inside elevator, and press floor one button
+7.)	When on first floor, walk out of the elevator
+8.) Turn right and go straight until you see a door
+9.) go past door
+10.)go down the stairs
+11.)Go to door
+12.)Open door
+13.)Go outside and check both sides of road 
+14.)Once safe to cross the road, cross the road
+15.)Take a left
+16.)Walk straight until you see subway
+17.)Turn right and go to door
